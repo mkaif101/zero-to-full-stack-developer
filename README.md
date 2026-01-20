@@ -1,1 +1,1 @@
-# zero-to-full-stack-developer
+# Zero to Full Stack Developer: From Basics to Production
