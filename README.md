@@ -21,6 +21,8 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 
 - [Git for Beginners: Complete Guide](https://mohdkaif.hashnode.dev/git-for-beginners-complete-guide)
 - [How Git Works: Inside the .git Folder](https://mohdkaif.hashnode.dev/how-git-works-inside-the-git-folder)
+- [Version Control Explained: The Pendrive Problem](https://mohdkaif.hashnode.dev/version-control-explained-the-pendrive-problem)
+- [Network Devices: Code to Internet](https://mohdkaif.hashnode.dev/network-devices-code-to-internet)
 
 *More articles coming soon...*
 
