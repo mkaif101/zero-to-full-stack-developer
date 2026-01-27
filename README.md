@@ -24,6 +24,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [Version Control Explained: The Pendrive Problem](https://mohdkaif.hashnode.dev/version-control-explained-the-pendrive-problem)
 - [Network Devices: Code to Internet](https://mohdkaif.hashnode.dev/network-devices-code-to-internet)
 - [DNS Resolution Guide: Master dig Command](https://mohdkaif.hashnode.dev/dns-resolution-guide-master-dig-command)
+- [DNS Records Explained: A Dev's Guide](https://mohdkaif.hashnode.dev/dns-records-explained-a-devs-guide)
 
 *More articles coming soon...*
 
