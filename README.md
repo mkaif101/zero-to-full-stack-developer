@@ -25,6 +25,8 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [Network Devices: Code to Internet](https://mohdkaif.hashnode.dev/network-devices-code-to-internet)
 - [DNS Resolution Guide: Master dig Command](https://mohdkaif.hashnode.dev/dns-resolution-guide-master-dig-command)
 - [DNS Records Explained: A Dev's Guide](https://mohdkaif.hashnode.dev/dns-records-explained-a-devs-guide)
+- [TCP vs UDP: Choosing the Right Protocol](https://mohdkaif.hashnode.dev/tcp-vs-udp-choosing-the-right-protocol)
+- [How TCP Guarantees Reliable Data Transfer](https://mohdkaif.hashnode.dev/how-tcp-guarantees-reliable-data-transfer)
 
 *More articles coming soon...*
 
