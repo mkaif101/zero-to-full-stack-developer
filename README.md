@@ -27,6 +27,8 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [DNS Records Explained: A Dev's Guide](https://mohdkaif.hashnode.dev/dns-records-explained-a-devs-guide)
 - [TCP vs UDP: Choosing the Right Protocol](https://mohdkaif.hashnode.dev/tcp-vs-udp-choosing-the-right-protocol)
 - [How TCP Guarantees Reliable Data Transfer](https://mohdkaif.hashnode.dev/how-tcp-guarantees-reliable-data-transfer)
+- [cURL Tutorial: Send Your First API Request](https://mohdkaif.hashnode.dev/curl-tutorial-send-your-first-api-request)
+- [HTML Layout Issues? Master Block & Inline](https://mohdkaif.hashnode.dev/html-layout-issues-master-block-and-inline)
 
 *More articles coming soon...*
 
