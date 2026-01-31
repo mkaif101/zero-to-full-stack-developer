@@ -29,6 +29,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [How TCP Guarantees Reliable Data Transfer](https://mohdkaif.hashnode.dev/how-tcp-guarantees-reliable-data-transfer)
 - [cURL Tutorial: Send Your First API Request](https://mohdkaif.hashnode.dev/curl-tutorial-send-your-first-api-request)
 - [HTML Layout Issues? Master Block & Inline](https://mohdkaif.hashnode.dev/html-layout-issues-master-block-and-inline)
+- [How Browsers Render: A Developer's Guide](https://mohdkaif.hashnode.dev/how-browsers-render-a-developers-guide)
 
 *More articles coming soon...*
 
