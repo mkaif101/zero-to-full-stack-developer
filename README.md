@@ -31,6 +31,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [HTML Layout Issues? Master Block & Inline](https://mohdkaif.hashnode.dev/html-layout-issues-master-block-and-inline)
 - [How Browsers Render: A Developer's Guide](https://mohdkaif.hashnode.dev/how-browsers-render-a-developers-guide)
 - [Emmet Tutorial: Write HTML 10x Faster](https://mohdkaif.hashnode.dev/emmet-tutorial-write-html-10x-faster)
+- [CSS Selectors 101: Style with Precision](https://mohdkaif.hashnode.dev/css-selectors-101-style-with-precision)
 
 *More articles coming soon...*
 
