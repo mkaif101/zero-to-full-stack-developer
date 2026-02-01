@@ -30,6 +30,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 - [cURL Tutorial: Send Your First API Request](https://mohdkaif.hashnode.dev/curl-tutorial-send-your-first-api-request)
 - [HTML Layout Issues? Master Block & Inline](https://mohdkaif.hashnode.dev/html-layout-issues-master-block-and-inline)
 - [How Browsers Render: A Developer's Guide](https://mohdkaif.hashnode.dev/how-browsers-render-a-developers-guide)
+- [Emmet Tutorial: Write HTML 10x Faster](https://mohdkaif.hashnode.dev/emmet-tutorial-write-html-10x-faster)
 
 *More articles coming soon...*
 
