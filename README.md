@@ -34,6 +34,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 13. [CSS Selectors 101: Style with Precision](https://mohdkaif.hashnode.dev/css-selectors-101-style-with-precision)
 14. [JavaScript Variables and Data Types](https://mohdkaif.hashnode.dev/javascript-variables-and-data-types)
 15. [JavaScript Operators: A Beginner's Guide](https://mohdkaif.hashnode.dev/javascript-operators-a-beginners-guide)
+16. [JavaScript Control Flow Explained](https://mohdkaif.hashnode.dev/javascript-control-flow-explained)
 
 *More articles coming soon...*
 
