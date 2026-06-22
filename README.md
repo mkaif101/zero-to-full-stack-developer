@@ -35,6 +35,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 14. [JavaScript Variables and Data Types](https://mohdkaif.hashnode.dev/javascript-variables-and-data-types)
 15. [JavaScript Operators: A Beginner's Guide](https://mohdkaif.hashnode.dev/javascript-operators-a-beginners-guide)
 16. [JavaScript Control Flow Explained](https://mohdkaif.hashnode.dev/javascript-control-flow-explained)
+17. [Function Declaration vs Expression](https://mohdkaif.hashnode.dev/function-declaration-vs-expression)
 
 *More articles coming soon...*
 
