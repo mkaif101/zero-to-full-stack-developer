@@ -38,6 +38,7 @@ This repository serves as a companion to my comprehensive blog series on Hashnod
 17. [Function Declaration vs Expression](https://mohdkaif.hashnode.dev/function-declaration-vs-expression)
 18. [Arrow Functions in JavaScript](https://mohdkaif.hashnode.dev/arrow-functions-in-javascript)
 19. [JavaScript Arrays for Beginners](https://mohdkaif.hashnode.dev/javascript-arrays-for-beginners)
+20. [6 JavaScript Array Methods Explained](https://mohdkaif.hashnode.dev/6-javascript-array-methods-explained)
 
 *More articles coming soon...*
 
